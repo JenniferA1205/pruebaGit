@@ -1,6 +1,9 @@
 Para subir un archivo a GitHub se debe de primero verificar el estado de los archivos y las carpetas y todo
+
 Luego se debe de hacer un git add . <- Esto añadirá todos los nuevos elementos al proceso del medio
+
 Se hacer un git commit -m "nombre x" <- esto para ponerle nombre al cambio o x cosa
+
 Luego se hace un git push <- Si es la primera vez se deberá de hacer un paso adicional, el terminal me dará el código
 
 NOTA: Siempre al inicio mirar que este en la carpeta correcta, si no es así hacer cd ..(ubicación de la carpeta)
